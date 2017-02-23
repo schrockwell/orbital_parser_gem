@@ -1,0 +1,3 @@
+module Orbital
+  VERSION = "0.0.1"
+end
